@@ -1,3 +1,2 @@
-
-77;30601;0c#!/bin/bash
+#!/bin/bash
 ls -la /root/alx-system_engineering-devops/0x00-shell_basics/ /root/alx-system_engineering-devops/ /boot/
