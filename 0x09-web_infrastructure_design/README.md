@@ -1,4 +1,4 @@
-Resources
+# Resources
 Read or watch:
 
 Network basics concept page
@@ -18,7 +18,7 @@ What is a firewall
 Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-General
+# General
 You must be able to draw a diagram covering the web stack you built with the sysadmin/devops track projects
 You must be able to explain what each component is doing
 You must be able to explain system redundancy
@@ -28,8 +28,9 @@ You are tasked to come up with solutions for the tasks below yourself to meet wi
 You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
 You are not allowed to publish any content of this project.
 Any form of plagiarism is strictly forbidden and will result in removal from the program.
-Requirements
-General
+
+# Requirements
+## General
 A README.md file, at the root of the folder of the project, is mandatory
 For each task, once you are done whiteboarding (on a whiteboard, piece of paper or software or your choice), take a picture/screenshot of your diagram
 This project will be manually reviewed:
