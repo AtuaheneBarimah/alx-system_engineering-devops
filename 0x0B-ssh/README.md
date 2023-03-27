@@ -1,4 +1,4 @@
-Resources
+# Resources
 Read or watch:
 
 What is a (physical) server - text
@@ -23,7 +23,7 @@ env
 Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-General
+# General
 What is a server
 Where servers usually live
 What is SSH
